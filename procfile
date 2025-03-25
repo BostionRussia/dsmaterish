@@ -1,1 +1,1 @@
-worker: python dsmat.py
+start: python dsmat.py
